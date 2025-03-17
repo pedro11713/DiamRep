@@ -1,0 +1,49 @@
+{
+  "vetorartistas":[
+  {
+    "nome": "Coldplay",
+    "imagem": "Photos/coldp.png",
+    "estilo": "Rock Alternativo",
+    "descricao": "Banda britânica de rock alternativo conhecida por sucessos como 'Yellow' e 'Viva La Vida'.",
+    "urlVideo": "https://www.youtube.com/embed/dvgZkm1xWPE",
+    "data": "2025-08-15",
+    "hora": "21:00"
+  },
+  {
+    "nome": "Dua Lipa",
+    "imagem": "Photos/dl.png",
+    "estilo": "Pop",
+    "descricao": "Cantora pop britânica famosa por hits como 'Levitating' e 'Don't Start Now'.",
+    "urlVideo": "https://www.youtube.com/embed/TUVcZfQe-Kw",
+    "data": "2025-08-16",
+    "hora": "22:30"
+  },
+  {
+    "nome": "Foo Fighters",
+    "imagem": "Photos/ff.png",
+    "estilo": "Rock",
+    "descricao": "Banda de rock americana liderada por Dave Grohl, conhecida por músicas como 'Everlong'.",
+    "urlVideo": "https://www.youtube.com/embed/eBG7P-K-r1Y",
+    "data": "2025-08-17",
+    "hora": "20:00"
+  },
+  {
+    "nome": "Billie Eilish",
+    "imagem": "Photos/billie.png",
+    "estilo": "Indie Pop",
+    "descricao": "Cantora e compositora conhecida por músicas como 'Bad Guy' e 'Ocean Eyes'.",
+    "urlVideo": "https://www.youtube.com/embed/DyDfgMOUjCI",
+    "data": "2025-08-18",
+    "hora": "19:45"
+  },
+  {
+    "nome": "The Weeknd",
+    "imagem": "Photos/tw.png",
+    "estilo": "R&B",
+    "descricao": "Artista canadense famoso por sucessos como 'Blinding Lights' e 'Save Your Tears'.",
+    "urlVideo": "https://www.youtube.com/embed/4NRXx6U8ABQ",
+    "data": "2025-08-19",
+    "hora": "23:00"
+  }
+]
+}
