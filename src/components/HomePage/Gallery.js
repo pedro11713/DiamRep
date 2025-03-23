@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "../index.css";
+
 
 const images = [
     "/Photos/Festa.jpg",

@@ -1,7 +1,7 @@
 function Artista({ nome, imagem, estilo, descricao, data, hora, urlVideo }) {
     return (
         <section>
-            <p>Nome: {nome}</p>
+            <p id="nomeArtista">Nome: {nome}</p>
             <p>Atuação: {data} as {hora}</p>
             <img src={imagem} onClick={() => handleClick({nome}) }/>
             <br/>

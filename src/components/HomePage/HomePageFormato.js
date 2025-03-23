@@ -1,7 +1,7 @@
-import React from 'react'; // Importar React se necessário
-import Schedule from "../components/Schedule";
-import Welcome from "../components/Welcome";
-import Volunteer from "../components/Volunteer";
+import React from "react"; // Importar React se necessário
+import Schedule from "./Schedule";
+import Welcome from "./Welcome";
+import Volunteer from "./Volunteer";
 
 function HomePageFormato() {
   return (
